@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spaceman/static/css/main.2cce8147.chunk.css",
+    "main.js": "/spaceman/static/js/main.9d2340a1.chunk.js",
+    "main.js.map": "/spaceman/static/js/main.9d2340a1.chunk.js.map",
+    "runtime~main.js": "/spaceman/static/js/runtime~main.201ddbd1.js",
+    "runtime~main.js.map": "/spaceman/static/js/runtime~main.201ddbd1.js.map",
+    "static/js/2.1b4458ed.chunk.js": "/spaceman/static/js/2.1b4458ed.chunk.js",
+    "static/js/2.1b4458ed.chunk.js.map": "/spaceman/static/js/2.1b4458ed.chunk.js.map",
+    "index.html": "/spaceman/index.html",
+    "precache-manifest.347389a0e8e957fdf16970d9a6b2d7ae.js": "/spaceman/precache-manifest.347389a0e8e957fdf16970d9a6b2d7ae.js",
+    "service-worker.js": "/spaceman/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/spaceman/static/css/main.2cce8147.chunk.css.map"
+  }
+}
